@@ -156,15 +156,14 @@ header .container {
   transform: translateX(0);
 }
 
-/* COUNTDOWN SECTION */
-section.container
-{
+/* .meta-container{
   background-image: url("../images/Unrevealed Pixi.gif");
   background-repeat: no-repeat;
   background-size: 80%;
   background-position: center;
-}
+} */
 
+/* COUNTDOWN SECTION */
 section {
   flex: 1 1 auto;
 }
