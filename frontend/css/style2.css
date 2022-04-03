@@ -177,6 +177,9 @@
   animation:move-background 70s linear infinite;
   
 }
+.site-footer__logo{
+  z-index: 10;
+}
 .blur-box{
   background-color: rgb(51 42 76 / 14%);
   backdrop-filter: blur(4px);

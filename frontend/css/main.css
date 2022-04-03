@@ -570,10 +570,10 @@ CONTAINER
       padding: .75rem 1.5rem; } }
 
 .site-footer {
-  margin-top: 10rem; }
+  margin-top: 0; }
   .site-footer .site-footer__bottom-bar {
     width: 100%;
-    padding: 2.5rem 0;
+    padding: 0;
     background-color: rgba(51, 42, 76, 0.4); }
     .site-footer .site-footer__bottom-bar .site-footer__content-wrapper {
       -webkit-box-pack: space-between;
