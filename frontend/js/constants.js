@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Pixiborg NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Pixiborg Crypto is a NFT collection of 5000 unique cyborgs who live in the planet PX-69 on the Ethereum Blockchain.';
+const welcome_p = 'Pixiborg Crypto is a NFT collection of 5000 unique cyborgs who live in the planet PX-69 on the Polygon Blockchain.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
